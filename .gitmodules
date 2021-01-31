@@ -1,0 +1,42 @@
+[submodule "virokr"]
+	path = virokr
+	url = https://gitlab.com/MatejDanic/virokr.git
+[submodule "pus"]
+	path = pus
+	url = https://gitlab.com/MatejDanic/pus.git
+[submodule "sui"]
+	path = sui
+	url = https://gitlab.com/MatejDanic/sui.git
+[submodule "ovo"]
+	path = ovo
+	url = https://gitlab.com/MatejDanic/ovo.git
+[submodule "avsp"]
+	path = avsp
+	url = https://gitlab.com/MatejDanic/avsp.git
+[submodule "dr"]
+	path = dr
+	url = https://gitlab.com/MatejDanic/dr.git
+[submodule "irg"]
+	path = irg
+	url = https://gitlab.com/MatejDanic/irg.git
+[submodule "nasp"]
+	path = nasp
+	url = https://gitlab.com/MatejDanic/nasp.git
+[submodule "parpro"]
+	path = parpro
+	url = https://gitlab.com/MatejDanic/parpro.git
+[submodule "ppj"]
+	path = ppj
+	url = https://gitlab.com/MatejDanic/ppj.git
+[submodule "rassus"]
+	path = rassus
+	url = https://gitlab.com/MatejDanic/rassus.git
+[submodule "ris"]
+	path = ris
+	url = https://gitlab.com/MatejDanic/ris.git
+[submodule "rppp"]
+	path = rppp
+	url = https://gitlab.com/MatejDanic/rppp.git
+[submodule "rznu"]
+	path = rznu
+	url = https://gitlab.com/MatejDanic/rznu.git
