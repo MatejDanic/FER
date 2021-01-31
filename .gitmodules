@@ -40,3 +40,6 @@
 [submodule "rznu"]
 	path = rznu
 	url = https://gitlab.com/MatejDanic/rznu.git
+[submodule "os"]
+	path = os
+	url = https://gitlab.com/MatejDanic/os.git
