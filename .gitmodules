@@ -43,3 +43,6 @@
 [submodule "os"]
 	path = os
 	url = https://gitlab.com/MatejDanic/os.git
+[submodule "fmos"]
+	path = fmos
+	url = https://gitlab.com/MatejDanic/fmos.git
