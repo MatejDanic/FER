@@ -1,17 +1,18 @@
 # FER
 Laboratory exercises and homework assignments from FER
 
-[avsp]: https://gitlab.com/MatejDanic/avsp
-[dr]: https://gitlab.com/MatejDanic/dr
-[irg]: https://gitlab.com/MatejDanic/irg
-[nasp]: https://gitlab.com/MatejDanic/nasp
-[ovo]: https://gitlab.com/MatejDanic/ovo
-[parpro]: https://gitlab.com/MatejDanic/parpro
-[ppj]: https://gitlab.com/MatejDanic/ppj
-[pus]: https://gitlab.com/MatejDanic/pus
-[rassus]: https://gitlab.com/MatejDanic/rassus
-[ris]: https://gitlab.com/MatejDanic/ris
-[rppp]: https://gitlab.com/MatejDanic/rppp
-[rznu]: https://gitlab.com/MatejDanic/rznu
-[sui]: https://gitlab.com/MatejDanic/sui
-[virokr]: https://gitlab.com/MatejDanic/virokr
+
+[Analiza velikih skupova podataka](https://gitlab.com/MatejDanic/avsp)
+[Diplomski rad](https://gitlab.com/MatejDanic/dr)
+[Interaktivna računalna grafika](https://gitlab.com/MatejDanic/irg)
+[Napredni algoritmi i strukture podataka](https://gitlab.com/MatejDanic/nasp)
+[Osnove virtualnih okruženja](https://gitlab.com/MatejDanic/ovo)
+[Paralelno programiranje](https://gitlab.com/MatejDanic/parpro)
+[Prevođenje programskih jezika](https://gitlab.com/MatejDanic/ppj)
+[Posrednici umreženih sustava](https://gitlab.com/MatejDanic/pus)
+[Raspodijeljeni sustavi](https://gitlab.com/MatejDanic/rassus)
+[Razvoj informacijskih sustava](https://gitlab.com/MatejDanic/ris)
+[Razvoj primijenjene programske potpore](https://gitlab.com/MatejDanic/rppp)
+[Računarstvo zasnovano na uslugama](https://gitlab.com/MatejDanic/rznu)
+[Sigurnost u internetu](https://gitlab.com/MatejDanic/sui)
+[Virtualna okruženja](https://gitlab.com/MatejDanic/virokr)
