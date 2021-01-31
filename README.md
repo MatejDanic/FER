@@ -6,9 +6,13 @@ Laboratory exercises and homework assignments from FER
 
 [Diplomski rad](https://gitlab.com/MatejDanic/dr)
 
+[Formalne metode u oblikovanju sustava](https://gitlab.com/MatejDanic/fmos)
+
 [Interaktivna računalna grafika](https://gitlab.com/MatejDanic/irg)
 
 [Napredni algoritmi i strukture podataka](https://gitlab.com/MatejDanic/nasp)
+
+[Operacijski sustavi](https://gitlab.com/MatejDanic/os)
 
 [Osnove virtualnih okruženja](https://gitlab.com/MatejDanic/ovo)
 
